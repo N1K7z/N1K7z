@@ -1,27 +1,18 @@
-<h1 align="center">N1k0R7z</h1>
+<h1 align="center">Hello, I'm 
+  <span style="animation: rgb 3s infinite;">N1k0R7z</span>
+</h1>
+
+<hr/>
 
 <p align="center">
-Started with curiosity.<br>
-Stayed because it was fun.<br>
-Still here — probably overthinking things and breaking stuff.
+  <img src="https://media.tenor.com/eW4ZfsFMIvMAAAAM/cat-computer.gif" width="220px"/>
 </p>
 
-<p align="center">
-<img src="https://media.tenor.com/eW4ZfsFMIvMAAAAM/cat-computer.gif" width="250px"/>
-</p>
-
----
-
-> learning goes burr → idea appears → try → break → fix → repeat
-
----
-
-### interests
-• linux & tiny tools  
-• random experiments  
-• open-source rabbit holes  
-• things that shouldn't work (but somehow do)
-
----
-
-<p align="center"><i>building for fun, chaos, and curiosity.</i></p>
+<style>
+@keyframes rgb {
+  0% { color: #ff004c; }
+  33% { color: #00e5ff; }
+  66% { color: #7dff00; }
+  100% { color: #ff004c; }
+}
+</style>
