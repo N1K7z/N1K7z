@@ -1,4 +1,4 @@
-<h1 align="center">Hello, I'm N1k0R7z</h1>
+<h1 align="center">Hi</h1>
 
 <hr/>
 
