@@ -4,12 +4,12 @@
 
 ---
 
-### 🛠️ bahasa yg gw sering pake:
+### bahasa yg sering ke pake:
 
 ![python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
 ![javascript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
 
-📫 Reach me: [@ig/twitter/discord]
+reach me: dc kena benned kocak
 ---
 
 </div>
