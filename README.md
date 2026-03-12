@@ -1,5 +1,7 @@
 <h1 align="center">hm</h1>
 
+---
+
 <p align="center">
   <a href="https://www.youtube.com/@TechwareZone">
     <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" width="600" height="120"/>
