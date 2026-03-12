@@ -6,7 +6,7 @@
 
 <p align="center">
   <a href="https://www.youtube.com/@TechwareZone">
-    <img src="https://render.gitanimals.org/lines/deaafrizal?pet-id=657051833278790750" width="600" height="120"/>
+    <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" width="600" height="120"/>
   </a>
 </p>
 
