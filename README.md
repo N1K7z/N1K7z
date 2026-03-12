@@ -31,9 +31,3 @@
 <p align="center">
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=N1K7z&theme=tokyonight">
 </p>
-
----
-
-<p align="center">
-<img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" width="200">
-</p>
