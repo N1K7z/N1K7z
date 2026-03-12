@@ -1,8 +1,4 @@
-<h1 align="center">👋</h1>
-
-<p align="center">
-  jagonya copas ai
-</p>
+<h1 align="center">hm</h1>
 
 <p align="center">
   <a href="https://www.youtube.com/@TechwareZone">
