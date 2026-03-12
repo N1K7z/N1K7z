@@ -19,11 +19,11 @@
 ### things i touch
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Linux-black?style=flat&logo=linux">
-  <img src="https://img.shields.io/badge/Node.js-green?style=flat&logo=node.js">
-  <img src="https://img.shields.io/badge/Python-yellow?style=flat&logo=python">
-  <img src="https://img.shields.io/badge/JavaScript-blue?style=flat&logo=javascript">
-  <img src="https://img.shields.io/badge/AI-orange?style=flat">
+  <img src="https://img.shields.io/badge/Linux-000000?style=flat&logo=linux&logoColor=white">
+  <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black">
+  <img src="https://img.shields.io/badge/AI-ff6b00?style=flat">
 </p>
 
 ---
