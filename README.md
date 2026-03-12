@@ -20,6 +20,7 @@
 <img src="https://img.shields.io/badge/nodejs-green?style=flat&logo=node.js">
 <img src="https://img.shields.io/badge/python-yellow?style=flat&logo=python">
 <img src="https://img.shields.io/badge/javascript-blue?style=flat&logo=javascript">
+<img src="https://img.shields.io/badge/-AI-yellow?style=for-the-badge&logo=ai" alt="AI" />
 </p>
 
 ---
