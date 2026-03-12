@@ -1,7 +1,7 @@
 <h1 align="center">welcome to my lab 🧪</h1>
 
 <p align="center">
-  building random stuff on the internet
+  apa aja yg kepikiran di pala gw
 </p>
 
 <p align="center">
