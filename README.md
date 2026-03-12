@@ -1,7 +1,7 @@
 <h1 align="center">👋</h1>
 
 <p align="center">
-  apa aja yg kepikiran di pala gw
+  jagonya copas ai
 </p>
 
 <p align="center">
