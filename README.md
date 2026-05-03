@@ -12,9 +12,7 @@
 
 ---
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&pause=1000&color=FFFFFF¢er=true&vCenter=true&width=435&lines=things+i+touch" alt="Typing SVG" />
-</p>
+<h3 align="center">things i touch</h3>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Linux-1a1a1a?style=flat&logo=linux&logoColor=white" />
