@@ -1,4 +1,4 @@
-<h1 align="center">Demen Ngoding😋</h1>
+<h1 align="center">sekedar hobi😁</h1>
 
 <p align="center">
   <a href="https://www.youtube.com/@TechwareZone">
