@@ -12,7 +12,6 @@
   <img src="https://media.giphy.com/media/zQR7qMJ3Esh0Y/giphy.gif" width="110">
 </p>
 
----
 
 <h3 align="center">things i touch</h3>
 
@@ -24,8 +23,6 @@
   <img src="https://img.shields.io/badge/AI-ff6b00?style=flat">
 </p>
 
----
-
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=N1K7z&theme=tokyonight&hide_border=true"/>
 </p>
@@ -33,3 +30,5 @@
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=N1K7z&theme=tokyo-night&hide_border=true&area=true"/>
 </p>
+
+---
