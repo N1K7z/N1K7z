@@ -26,9 +26,6 @@
 
 ---
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=N1K7z&theme=tokyonight&show_icons=true&hide_border=true"/>
-</p>
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=N1K7z&theme=tokyonight&hide_border=true"/>
