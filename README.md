@@ -20,7 +20,6 @@
   <img src="https://img.shields.io/badge/Python-1e3a5f?style=flat&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-7a6800?style=flat&logo=javascript&logoColor=white" />
   <img src="https://img.shields.io/badge/Go-00AED8?style=flat&logo=go&logoColor=white" />
-  <img src="https://img.shields.io/badge/AI-b84500?style=flat" />
 </p>
 
 ---
