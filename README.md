@@ -7,9 +7,8 @@
 </p>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/zQR7qMJ3Esh0Y/giphy.gif" width="80" />
+  <img src="https://media.giphy.com/media/zQR7qMJ3Esh0Y/giphy.gif" width="90" />
 </p>
-
 <h3 align="center">things i touch</h3>
 
 <p align="center">
