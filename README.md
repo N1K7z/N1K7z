@@ -26,20 +26,6 @@
 
 ---
 
-<h3 align="center">languages i actually use</h3>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=N1K7z&layout=donut&theme=tokyonight&hide_border=true&animate=true"/>
-</p>
-
----
-
-<h3 align="center">my github stats</h3>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=N1K7z&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"/>
-</p>
-
----
-
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=N1K7z&theme=tokyonight&hide_border=true"/>
 </p>
