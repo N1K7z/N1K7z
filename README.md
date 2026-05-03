@@ -12,7 +12,7 @@
 
 ---
 
-<h4 align="center">things i touch</h4>
+<h3 align="center">things i touch</h3>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Linux-000000?style=flat&logo=linux&logoColor=white" />
