@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="110">
+  <img src="https://giphy.com/gifs/cat-kitten-punch-zQR7qMJ3Esh0Y" width="110">
   <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="110">
 </p>
 
