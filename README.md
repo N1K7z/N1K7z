@@ -10,6 +10,8 @@
   <img src="https://media.giphy.com/media/zQR7qMJ3Esh0Y/giphy.gif" width="120" />
 </p>
 
+---
+
 <h4 align="center">things i touch</h4>
 
 <p align="center">
