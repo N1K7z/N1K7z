@@ -1,4 +1,4 @@
-<h1 align="center">Hello world</h1>
+<h1 align="center">Hello World</h1>
 
 <p align="center">
   <a href="https://www.youtube.com/@TechwareZone">
@@ -6,9 +6,19 @@
   </a>
 </p>
 
-<p align="center">
-  <img src="https://media.giphy.com/media/7Yz4nUrdyyAtqSog0a/giphy.gif" width="150" />
-</p>
+<!-- Dua GIF sejajar (berdampingan) pake tabel transparan -->
+<div align="center">
+  <table>
+    <tr>
+      <td align="center" width="50%">
+        <img src="https://media.giphy.com/media/7Yz4nUrdyyAtqSog0a/giphy.gif" width="150" />
+      </td>
+      <td align="center" width="50%">
+        <img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="150" />
+      </td>
+    </tr>
+  </table>
+</div>
 
 ---
 
@@ -24,10 +34,13 @@
 
 ---
 
+
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=N1K7z&theme=tokyonight&hide_border=true&card_width=680" />
+  <img src="https://media.giphy.com/media/26FeTKvLzDnH4KLvi/giphy.gif" width="400" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=N1K7z&theme=tokyo-night&hide_border=true&area=true&custom_title=contribution%20graph" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=N1K7z&background=000000&border=FFFFFF&stroke=FFFFFF&ring=FFFFFF&fire=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF&sideLabels=CCCCCC&dates=CCCCCC&hide_border=true&card_width=680" />
 </p>
+
+---
