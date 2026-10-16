@@ -20,8 +20,6 @@
   </table>
 </div>
 
----
-
 <h3 align="center">things i touch</h3>
 
 <p align="center">
